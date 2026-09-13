@@ -2,6 +2,8 @@
 
 > **Dreamforce 2026 · Session 3625** — companion resources for the talk.
 
+📺 **[Watch the demo recording](https://github.com/albarivas/df26-catalog-apis/releases/download/v1.0/catalog-demo.mov)** (29 MB, `.mov`)
+
 The **Salesforce Catalog APIs** are a set of read-only, progressive APIs (under
 `/ssot/catalog-metadata`) that let you introspect the metadata of your org — both
 **core platform** metadata (objects, fields, Apex, Flows, permission sets…) and
