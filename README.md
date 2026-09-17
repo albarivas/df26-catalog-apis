@@ -4,6 +4,8 @@
 
 📺 **[Watch the demo recording](https://github.com/albarivas/df26-catalog-apis/releases/download/v1.0/catalog-demo.mov)** (29 MB, `.mov`)
 
+📊 **[Download the slides](https://github.com/albarivas/df26-catalog-apis/blob/main/DF26%20-%203625%20%20-%20Discover%20Data%20360%20Metadata%20via%20Salesforce%20Catalog%20APIs.pdf)** (6.4 MB, `.pdf`)
+
 The **Salesforce Catalog APIs** are a set of read-only, progressive APIs (under
 `/ssot/catalog-metadata`) that let you introspect the metadata of your org — both
 **core platform** metadata (objects, fields, Apex, Flows, permission sets…) and
