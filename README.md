@@ -62,6 +62,10 @@ Built into your app, your agent, or your CI pipeline.
 ### Salesforce Catalog & Catalog APIs
 - The Catalog Metadata APIs are currently surfaced through the Data 360 MCP server (see the guide/reference above). A dedicated public API reference is expected at GA.
 
+### Related videos
+- [Use Coding Agents to Build with Trusted Metadata Context](https://www.salesforce.com/plus/experience/dreamforce_2026/series/developers_at_dreamforce_2026/episode/episode-s1e6) (Salesforce+, Developers at Dreamforce 2026)
+- [Agentforce NOW AMA: Give Agents Live Org Awareness with Metadata Grounding](https://www.youtube.com/watch?v=r8clbjtv9Hs) (YouTube)
+
 ### Protocol
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 
