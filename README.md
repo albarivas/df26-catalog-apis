@@ -6,6 +6,8 @@
 
 📊 **[Download the slides](https://github.com/albarivas/df26-catalog-apis/blob/main/DF26%20-%203625%20%20-%20Discover%20Data%20360%20Metadata%20via%20Salesforce%20Catalog%20APIs.pdf)** (6.4 MB, `.pdf`)
 
+📊 **[Download the Madrid User Group slides (Oct 28, 2026)](https://github.com/albarivas/df26-catalog-apis/blob/main/Madrid%20User%20Group%2010_28_26%20%20-%20Discover%20Metadata%20via%20Salesforce%20Catalog%20APIs%20and%20MCP%20Servers.pdf)** (8.6 MB, `.pdf`)
+
 The **Salesforce Catalog APIs** are a set of read-only, progressive APIs (under
 `/ssot/catalog-metadata`) that let you introspect the metadata of your org — both
 **core platform** metadata (objects, fields, Apex, Flows, permission sets…) and
@@ -59,12 +61,24 @@ Built into your app, your agent, or your CI pipeline.
 - [Data 360 MCP server — guide](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/data360-mcp.html)
 - [Data 360 MCP server — reference](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/references/reference/data360-mcp.html)
 
+### Metadata Grounding MCP server (Beta)
+- [Metadata Grounding MCP server: reference](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/references/reference/metadata-grounding.html)
+- [Agentforce NOW AMA: Give Agents Live Org Awareness with Metadata Grounding](https://www.youtube.com/watch?v=r8clbjtv9Hs) (YouTube)
+- [AIforce AMA: Give Coding Agents Real Org Context with Catalog and MCP](https://www.youtube.com/watch?v=0yvyJ4YG0fg) (YouTube)
+
+### Salesforce MCP server (Headless 360, Beta)
+- [Introducing Salesforce Headless 360. No Browser Required.](https://www.salesforce.com/news/stories/salesforce-headless-360-announcement/) (Salesforce newsroom announcement)
+- [Headless 360 MCP server: reference](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/references/reference/headless-360-mcp.html)
+- [Welcome to Salesforce Headless DevKit](https://developer.salesforce.com/docs/platform/headless-get-started/guide/headless-get-started.html) (getting started guide)
+- [Salesforce Hosted MCP Servers: overview](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/hosted-mcp-servers-overview.html)
+- [Connect Claude with Salesforce Hosted MCP Servers](https://developer.salesforce.com/blogs/2026/05/connect-claude-with-salesforce-hosted-mcp-servers) (blog)
+- [Explore the Headless 360 MCP Server: Unlock Thousands of Salesforce Capabilities with Four Tools](https://www.youtube.com/watch?v=D88SoWEOhyM) (YouTube, Salesforce Headless 360 Decoded)
+
 ### Salesforce Catalog & Catalog APIs
 - The Catalog Metadata APIs are currently surfaced through the Data 360 MCP server (see the guide/reference above). A dedicated public API reference is expected at GA.
 
 ### Related videos
 - [Use Coding Agents to Build with Trusted Metadata Context](https://www.salesforce.com/plus/experience/dreamforce_2026/series/developers_at_dreamforce_2026/episode/episode-s1e6) (Salesforce+, Developers at Dreamforce 2026)
-- [Agentforce NOW AMA: Give Agents Live Org Awareness with Metadata Grounding](https://www.youtube.com/watch?v=r8clbjtv9Hs) (YouTube)
 
 ### Protocol
 - [Model Context Protocol](https://modelcontextprotocol.io/)
@@ -73,4 +87,4 @@ Built into your app, your agent, or your CI pipeline.
 
 ## Disclaimer
 
-The Catalog APIs are pre-GA ("GA soon") and the Data 360 MCP server is in GA at the time of the talk. Endpoint shapes and server names may change. This is a community resource for the session, not official Salesforce documentation — always defer to the official docs linked above.
+The Catalog APIs are planned to be GA in November 2026 and the Data 360 MCP server is in GA at the time of the talk. Endpoint shapes and server names may change. This is a community resource for the session, not official Salesforce documentation — always defer to the official docs linked above.
